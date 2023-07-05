@@ -1,4 +1,4 @@
-<img src="ekran.gif">
+<img src="ham.gif">
 <h1>selam</h1>
 
 # Getting Started with Create React App
